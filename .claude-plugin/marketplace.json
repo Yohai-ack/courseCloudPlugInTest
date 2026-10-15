@@ -1,0 +1,15 @@
+{
+  "name": "yohai-ack-skills",
+  "description": "Claude Code skills packaged as plugins.",
+  "owner": {
+    "name": "Yohai_ack"
+  },
+  "plugins": [
+    {
+      "name": "skl-glb-tst1",
+      "source": "./",
+      "description": "Create a PDF containing user-supplied text written 5 times on separate rows.",
+      "version": "1.0.0"
+    }
+  ]
+}

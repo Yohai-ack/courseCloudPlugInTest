@@ -1,0 +1,8 @@
+{
+  "name": "skl-glb-tst1",
+  "version": "1.0.0",
+  "description": "Create a PDF containing user-supplied text written 5 times on separate rows, saved in the current working directory.",
+  "author": {
+    "name": "Yohai_ack"
+  }
+}
